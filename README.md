@@ -18,6 +18,3 @@ A console-based Java project demonstrating core Object-Oriented Programming (OOP
    ```bash
    java -cp src com.bank.Main
    ```
-
-## License
-This project is open source under the MIT License.
